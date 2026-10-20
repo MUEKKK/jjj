@@ -1,0 +1,6 @@
+/* Custom High-Contrast Mode untuk Aksesibilitas Disabilitas */
+.high-contrast {
+    filter: contrast(150%) brightness(90%);
+    background-color: #000 !important;
+    color: #fff !important;
+}
